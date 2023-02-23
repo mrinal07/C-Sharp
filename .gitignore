@@ -1,0 +1,20 @@
+# Ignore all files with the specified extension.
+# Scope is all repo folders.
+.sln
+
+.csproj
+
+App.config
+
+.config
+
+# Ignore all files in the 'Properties' subfolder.
+/Properties/
+
+/bin/
+
+/obj/
+
+# Add an exception so as to not ignore a file with the specified name.
+# Scope is all repo folders.
+!.cs
