@@ -1,0 +1,8 @@
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\bin\Debug\KeywordsPart2.exe.config
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\bin\Debug\KeywordsPart2.exe
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\bin\Debug\KeywordsPart2.pdb
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\obj\Debug\KeywordsPart2.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\obj\Debug\KeywordsPart2.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\obj\Debug\KeywordsPart2.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\obj\Debug\KeywordsPart2.exe
+E:\Programming\Fendahl\Training\KeywordsPart2\KeywordsPart2\obj\Debug\KeywordsPart2.pdb
