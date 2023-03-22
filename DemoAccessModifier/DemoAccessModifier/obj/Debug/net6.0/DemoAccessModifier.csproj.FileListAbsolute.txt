@@ -1,0 +1,12 @@
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\bin\Debug\net6.0\DemoAccessModifier.deps.json
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\bin\Debug\net6.0\DemoAccessModifier.dll
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\bin\Debug\net6.0\DemoAccessModifier.pdb
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\DemoAccessModifier.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\DemoAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\DemoAccessModifier.AssemblyInfoInputs.cache
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\DemoAccessModifier.AssemblyInfo.cs
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\DemoAccessModifier.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\DemoAccessModifier.dll
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\refint\DemoAccessModifier.dll
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\DemoAccessModifier.pdb
+E:\Programming\Fendahl\Training\DemoAccessModifier\DemoAccessModifier\obj\Debug\net6.0\ref\DemoAccessModifier.dll
