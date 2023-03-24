@@ -1,0 +1,8 @@
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\bin\Debug\SampleModifier2.exe.config
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\bin\Debug\SampleModifier2.exe
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\bin\Debug\SampleModifier2.pdb
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\obj\Debug\SampleModifier2.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\obj\Debug\SampleModifier2.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\obj\Debug\SampleModifier2.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\obj\Debug\SampleModifier2.exe
+E:\Programming\Fendahl\Training\SampleModifier2\SampleModifier2\obj\Debug\SampleModifier2.pdb

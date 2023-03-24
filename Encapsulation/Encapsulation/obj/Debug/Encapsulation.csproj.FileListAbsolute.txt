@@ -1,0 +1,12 @@
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\bin\Debug\LogSaveLibrary.exe
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\bin\Debug\LogSaveLibrary.pdb
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\bin\Debug\LogSaveLibrary.exe.config
+E:\Programming\Fendahl\Training\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CopyComplete
