@@ -1,0 +1,8 @@
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\bin\Debug\TypesOfContructor.exe.config
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\bin\Debug\TypesOfContructor.exe
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\bin\Debug\TypesOfContructor.pdb
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\obj\Debug\TypesOfContructor.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\obj\Debug\TypesOfContructor.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\obj\Debug\TypesOfContructor.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\obj\Debug\TypesOfContructor.exe
+E:\Programming\Fendahl\Training\StaticKeyword\TypesOfContructor\obj\Debug\TypesOfContructor.pdb

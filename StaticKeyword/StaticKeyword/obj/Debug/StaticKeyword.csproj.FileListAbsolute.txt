@@ -1,0 +1,8 @@
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\bin\Debug\StaticKeyword.exe.config
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\bin\Debug\StaticKeyword.exe
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\bin\Debug\StaticKeyword.pdb
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.exe
+E:\Programming\Fendahl\Training\StaticKeyword\StaticKeyword\obj\Debug\StaticKeyword.pdb
