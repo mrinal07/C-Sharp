@@ -1,0 +1,8 @@
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+E:\Programming\Fendahl\Training\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
