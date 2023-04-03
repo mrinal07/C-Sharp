@@ -1,0 +1,8 @@
+E:\Programming\Fendahl\Training\Assignment2\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+E:\Programming\Fendahl\Training\Assignment2\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Fendahl\Training\Assignment2\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\Programming\Fendahl\Training\Assignment2\Task3\bin\Debug\Task3.exe.config
+E:\Programming\Fendahl\Training\Assignment2\Task3\bin\Debug\Task3.exe
+E:\Programming\Fendahl\Training\Assignment2\Task3\bin\Debug\Task3.pdb
+E:\Programming\Fendahl\Training\Assignment2\Task3\obj\Debug\Task3.exe
+E:\Programming\Fendahl\Training\Assignment2\Task3\obj\Debug\Task3.pdb
